@@ -1,0 +1,19 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+
+name: train-RF
+display_name: Train RF
+
+command: >
+  python train.py --data_path ${{inputs.train_data}}
+
+
+inputs:
+  train_data:
+    type: uri_file
+    path: azureml:TITANIC_DATASET@latest
+
+environment: azureml:ml-env1@latest
+
+compute: azureml:cpu-cluster
+
+experiment_name: RF-titanicdata

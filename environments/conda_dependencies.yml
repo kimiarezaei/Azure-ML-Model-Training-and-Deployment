@@ -1,0 +1,9 @@
+name: ml-env1
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - joblib
