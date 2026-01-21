@@ -4,7 +4,7 @@ This repository demonstrates a complete, end-to-end machine learning workflow us
 
 ---
 
-## 🚀 What This Project Covers
+## What This Project Covers
 
 - Azure ML workspace setup
 - Data assets and datastores
@@ -16,7 +16,7 @@ This repository demonstrates a complete, end-to-end machine learning workflow us
 
 ---
 
-## 🧠 Use Case
+## Use Case
 
 A supervised machine learning classification task (e.g., Titanic survival prediction) is used to demonstrate:
 
