@@ -1,5 +1,7 @@
 # End-to-End Machine Learning with Azure ML
-This repository demonstrates a complete, end-to-end machine learning workflow using **Azure Machine Learning (Azure ML)** — from data ingestion and model training to deployment and real-time inference using managed online endpoints.
+
+This repository demonstrates a complete, end-to-end machine learning workflow using Azure Machine Learning (Azure ML) — from data ingestion and model training to deployment and real-time inference using managed online endpoints.
+
 ---
 
 ## 🚀 What This Project Covers
