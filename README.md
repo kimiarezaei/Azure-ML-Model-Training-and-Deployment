@@ -32,5 +32,11 @@ conda activate ml-env
 # Train the model
 python src/train.py
 
+```
 
 
+## Deploy the Model to Azure ML
+
+- Register the model with Azure ML
+- Deploy to a Managed Online Endpoint
+- Use score.py for real-time inference
