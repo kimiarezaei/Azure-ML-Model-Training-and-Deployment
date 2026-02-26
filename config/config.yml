@@ -1,0 +1,12 @@
+data:
+  data_path: "data/Titanic-Dataset.csv"
+
+training:
+  iterations: 300
+  learning_rate: 0.05
+  depth: 6
+  random_state: 42
+  test_size: 0.2
+
+dirs:
+  output_dir: "outputs"

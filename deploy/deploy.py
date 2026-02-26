@@ -6,7 +6,7 @@ from azure.ai.ml.constants import AssetTypes
 # connect to azure account
 ml_client = MLClient(
     DefaultAzureCredential(),
-    subscription_id="your-ID",
+    subscription_id="32a7d6ef-f086-46e4-865f-4489c5b9f167",
     resource_group_name="azureml-kr",
     workspace_name="ml_ws"   # optional if you want to connect to an existing workspace
 )

@@ -1,0 +1,4 @@
+2026-02-26 13:51:32,883 - __main__ - INFO - Starting training...
+2026-02-26 13:51:33,965 - __main__ - INFO - Model saved
+2026-02-26 13:51:33,965 - __main__ - INFO - Model accuracy: 0.7989
+2026-02-26 13:51:33,988 - __main__ - INFO - Model saved as ONNX format

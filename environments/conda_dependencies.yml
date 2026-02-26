@@ -7,3 +7,6 @@ dependencies:
   - numpy
   - scikit-learn
   - joblib
+  - skl2onnx
+  - onnx
+  - onnxruntime
